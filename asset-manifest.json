@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/webStudy/static/css/main.8d5de168.chunk.css",
-    "main.js": "/webStudy/static/js/main.2c9915bc.chunk.js",
-    "main.js.map": "/webStudy/static/js/main.2c9915bc.chunk.js.map",
-    "runtime-main.js": "/webStudy/static/js/runtime-main.364d1588.js",
-    "runtime-main.js.map": "/webStudy/static/js/runtime-main.364d1588.js.map",
-    "static/js/2.5d8c30e9.chunk.js": "/webStudy/static/js/2.5d8c30e9.chunk.js",
-    "static/js/2.5d8c30e9.chunk.js.map": "/webStudy/static/js/2.5d8c30e9.chunk.js.map",
-    "index.html": "/webStudy/index.html",
-    "static/css/main.8d5de168.chunk.css.map": "/webStudy/static/css/main.8d5de168.chunk.css.map",
-    "static/js/2.5d8c30e9.chunk.js.LICENSE.txt": "/webStudy/static/js/2.5d8c30e9.chunk.js.LICENSE.txt"
+    "main.css": "/webStudy/movie/static/css/main.8d5de168.chunk.css",
+    "main.js": "/webStudy/movie/static/js/main.2c9915bc.chunk.js",
+    "main.js.map": "/webStudy/movie/static/js/main.2c9915bc.chunk.js.map",
+    "runtime-main.js": "/webStudy/movie/static/js/runtime-main.8c7ce06a.js",
+    "runtime-main.js.map": "/webStudy/movie/static/js/runtime-main.8c7ce06a.js.map",
+    "static/js/2.5d8c30e9.chunk.js": "/webStudy/movie/static/js/2.5d8c30e9.chunk.js",
+    "static/js/2.5d8c30e9.chunk.js.map": "/webStudy/movie/static/js/2.5d8c30e9.chunk.js.map",
+    "index.html": "/webStudy/movie/index.html",
+    "static/css/main.8d5de168.chunk.css.map": "/webStudy/movie/static/css/main.8d5de168.chunk.css.map",
+    "static/js/2.5d8c30e9.chunk.js.LICENSE.txt": "/webStudy/movie/static/js/2.5d8c30e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.364d1588.js",
+    "static/js/runtime-main.8c7ce06a.js",
     "static/js/2.5d8c30e9.chunk.js",
     "static/css/main.8d5de168.chunk.css",
     "static/js/main.2c9915bc.chunk.js"
